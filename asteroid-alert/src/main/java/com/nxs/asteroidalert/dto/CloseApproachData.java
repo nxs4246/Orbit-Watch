@@ -22,5 +22,5 @@ public class CloseApproachData {
     private LocalDate closeApproachDate;
 
     @JsonProperty("miss_distance")
-    private MissDistance missdistance;
+    private MissDistance missDistance;
 }
